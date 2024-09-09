@@ -10,8 +10,11 @@
   "author": "Halil Çakır",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "ejs": "^3.1.10",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongodb": "^6.8.1",
+    "mongoose": "^8.6.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
