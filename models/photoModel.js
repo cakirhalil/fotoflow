@@ -16,7 +16,7 @@ const photoSchema = new Schema({
   uploadedAt: {
     type: Date,
     default: Date.now,
-  }
+  },
 });
 
 const Photo = mongoose.model('Photo', photoSchema);
