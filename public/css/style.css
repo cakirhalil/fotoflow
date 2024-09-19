@@ -337,6 +337,8 @@ button {
 .logo a span {
     color: #f6388e;
 }
+
+
 .navbar-area {
     float: left;
 }
@@ -497,7 +499,7 @@ ul.email li i {
     width: 40%;
 }
 .creative h1 {
-    font-size: 100px;
+    font-size: 75px;
     line-height: 100px;
     color: #fff;
     font-weight: bold;
@@ -995,3 +997,8 @@ ul.social_icon_bottom li a i:hover {
 .inner_page .about {
     padding-top: 80px;
 } 
+
+
+
+
+
