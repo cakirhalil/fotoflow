@@ -20,7 +20,7 @@
                 <h3><%= photo.name %></h3>
                 <p><%= photo.description %></p>
                 <a class="read_more" href="/users/<%= photo.user._id %>">
-                  Artist: <%= photo.user.username %>
+                  PHOTOGRAPHER: <%= photo.user.username %>
                </a>
 
                <% if (isOwner) { %>
