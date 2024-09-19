@@ -178,7 +178,7 @@ const getLogout = (req, res) => {
         auth: {
           user: process.env.NODE_MAIL, // generated ethereal user
           pass: process.env.NODE_PASS, // generated ethereal password
-          tls: { rejectUnauthorized: false }
+        //   tls: { rejectUnauthorized: false }
         },
       });
       // send mail with defined transport object
