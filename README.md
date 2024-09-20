@@ -6,13 +6,11 @@ Node.js, Express ve MongoDB kullanılarak hazırlanmış fotoğraf paylaşma uyg
 
 ## Proje Hakkında
 
-FotoFlow, fotoğrafçılık tutkunları ve profesyoneller için tasarlanmış, kapsamlı bir fotoğraf yükleme ve takipleşme uygulamasıdır.
-Kullanıcılar, FotoFlow sayesinde fotoğraflarını diğer kullanıcılar ile paylaşabilir ve dilediği kullanıcılar ile takipleşebilir.
-Kullanıcı dostu arayüzü ile yaratıcı çalışmalar için ideal bir ortam sunar. FotoFlow, fotoğrafçılık deneyimini bir sonraki seviyeye taşımak isteyenler için mükemmel bir çözümdür.
+FotoFlow, fotoğrafçılık tutkunlarına ve profesyonellere yönelik, fotoğraf yükleme ve takip sistemine sahip kapsamlı bir platformdur. Kullanıcılar, FotoFlow ile fotoğraflarını diğer üyelerle paylaşabilir ve istedikleri kişileri takip ederek etkileşimde bulunabilir. Kullanıcı dostu arayüzü, yaratıcı çalışmalar için ideal bir ortam sunarken, fotoğrafçılık deneyimini daha keyifli ve etkileşimli hale getirir. FotoFlow, fotoğraf tutkunları için yaratıcılığı ve sosyal bağlantıları bir araya getiren mükemmel bir çözüm sunar.
 
-## FOTOFLOW'u kullanmaya başlayın
+## Uygulamayı denemek için
 
-<a href="https://fotoflow.onrender.com/" target="_blank">Demoyu Ziyaret Et</a>
+<a href="https://fotoflow.onrender.com/" target="_blank">FOTOFLOW'u Ziyaret Et</a>
 
 ## Projenin içeriği
 
